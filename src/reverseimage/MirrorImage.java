@@ -15,7 +15,7 @@ public class MirrorImage {
 
 static String imageName = "fairest.jpg";
 
-    public static void main(String[] args) throws IOException {
+    public static void main(String[] args) throws IOException{
 
         //BufferedImage for source image
         BufferedImage simg = null;
